@@ -77,3 +77,18 @@ Este proyecto contiene ejemplos y ejercicios básicos en Java, organizados en ca
 - Uso de `try`, `catch`, `finally`.
 - Creación de excepciones personalizadas.
 - Ejemplos para manejo de errores comunes en tiempo de ejecución.
+
+---
+
+## Cómo Ejecutar
+
+1. Clonar o descargar el repositorio.
+2. Abrir el proyecto en tu IDE favorito (Eclipse, IntelliJ, NetBeans).
+3. Navegar a la carpeta de interés.
+4. Compilar y ejecutar los archivos `.java`.
+
+---
+
+## Conclusión
+
+Este proyecto es una guía práctica para familiarizarse con conceptos básicos de Java. Ideal para estudiantes y desarrolladores que quieran fortalecer sus fundamentos antes de avanzar a temas más complejos.
